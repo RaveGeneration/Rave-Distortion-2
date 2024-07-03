@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="25" p0="0" p1="40.625" p2="0.1302083134651184082" p3="32.157784700393676758" p4="0.4296874701976776123" p5="6" p6="-41.14583134651184082" p7="-4.8958325386047363281" p8="6.0416674613952636719" p9="20" p10="207.37122511491179466" p11="0.62538981437683105469" p12="16.031247854232788086" p13="42.031248807907104492" p14="4.1666705161333084106" p15="-16.458333432674407959" p16="627.26560961455106735" p17="0.4453125" p18="14.718748569488525391" p19="45.46875" p20="100" p21="-12.132597565650939941" p22="62.187501788139343262" p23="2.0784559249877929688" p24="0"/>
+    <inputStrings count="1" s0="%FACTORY_SCRIPTS_PATH%/default.czz"/>
+    <model/>
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="1">
+                    <p0 name="global_opacity" value="100"/>
+                </params>
+            </state>
+        </skin>
+    </GUI>
+</Preset>
