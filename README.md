@@ -3,10 +3,10 @@ Presets can be downloaded from https://ravegeneration.io and are regularly updat
 ------------------------------------------------------------------------------------
 
 Windows:
-C:\Users\[username]\Documents\Rave Generation\Rave Distortion\Presets
+C:\Users\[username]\Documents\Rave Generation\Rave Distortion 2\Presets
 
 MacOS:
-/Users/[username]/Documents/Rave Generation/Rave Distortion/Presets
+/Users/[username]/Documents/Rave Generation/Rave Distortion 2/Presets
 
 -------------------------------------------------------------------------------------------
 The 'Presets' folder will be auto-generated after launching the plugin for the first time.
