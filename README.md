@@ -11,4 +11,4 @@ MacOS:
 -------------------------------------------------------------------------------------------
 The 'Presets' folder will be auto-generated after launching the plugin for the first time.
 -------------------------------------------------------------------------------------------
-![rg_rd_screen01](https://github.com/user-attachments/assets/9e1389d2-c421-4e89-8c7d-71c94ff75933)
+<img width="1600" height="1162" alt="rave distortion 2 screen 101" src="https://github.com/user-attachments/assets/d0e4b09f-86c7-4afe-b2f0-b33a14385901" />
